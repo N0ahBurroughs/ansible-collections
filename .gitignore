@@ -1,0 +1,2 @@
+./community-general-12.3.0/tests/integration/targets/lookup_collection_version/collections/ansible_collections/testns/testcoll/plugins/modules/collection_module.py
+community-general-12.3.0/tests/integration/targets/lookup_collection_version/collections/ansible_collections/testns/testcoll/plugins/modules/collection_module.py
