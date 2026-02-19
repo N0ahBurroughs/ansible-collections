@@ -1,0 +1,117 @@
+Plugins:
+Bundled analyzers:
+  - Text Code Quality and Security 2.26.0.7517 (textenterprise)
+  - JaCoCo 1.3.0.1538 (jacoco)
+  - IaC Code Quality and Security 1.48.0.15768 (iacenterprise)
+  - IaC Code Quality and Security 1.48.0.15768 (iac)
+  - Clean as You Code 2.4.0.2018 (cayc)
+Global server settings:
+  - sonar.abap.file.suffixes=.abap,.ab4,.flow,.asprog
+  - sonar.apex.file.suffixes=.cls,.trigger
+  - sonar.auth.saml.applicationId=https://sonarqube.eh.serco-na.us
+  - sonar.auth.saml.enabled=true
+  - sonar.auth.saml.group.name=http://schemas.microsoft.com/ws/2008/06/identity/claims/groups
+  - sonar.auth.saml.loginUrl=https://login.microsoftonline.us/fb1f5cc5-be84-4881-b037-2d641aea97fd/saml2
+  - sonar.auth.saml.providerId=https://sts.windows.net/fb1f5cc5-be84-4881-b037-2d641aea97fd/
+  - sonar.auth.saml.providerName=Entra SSO
+  - sonar.auth.saml.user.email=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress
+  - sonar.auth.saml.user.login=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/login
+  - sonar.auth.saml.user.name=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name
+  - sonar.azureresourcemanager.file.suffixes=.bicep
+  - sonar.c.file.suffixes=.c,.h
+  - sonar.core.id=3C36F457-AZjIrQluHfJladM2x0p4
+  - sonar.core.serverBaseURL=https://sonarqube.eh.serco-na.us
+  - sonar.core.startTime=2026-01-05T18:41:41+0000
+  - sonar.cpp.file.suffixes=.cc,.cpp,.cxx,.c++,.hh,.hpp,.hxx,.h++,.ipp,.ixx,.mxx,.cppm,.ccm,.cxxm,.c++m
+  - sonar.cs.file.suffixes=.cs,.razor
+  - sonar.css.file.suffixes=.css,.less,.scss,.sass
+  - sonar.dart.file.suffixes=.dart
+  - sonar.docker.file.patterns=Dockerfile,*.dockerfile
+  - sonar.flex.file.suffixes=as
+  - sonar.forceAuthentication=true
+  - sonar.go.file.suffixes=.go
+  - sonar.html.file.suffixes=.html,.xhtml,.cshtml,.vbhtml,.aspx,.ascx,.rhtml,.erb,.shtm,.shtml,.cmp,.twig
+  - sonar.ipynb.file.suffixes=ipynb
+  - sonar.java.file.suffixes=.java,.jav
+  - sonar.java.jvmframeworkconfig.file.patterns=**/src/main/resources/**/*app*.properties,**/src/main/resources/**/*app*.yaml,**/src/main/resources/**/*app*.yml
+  - sonar.javascript.file.suffixes=.js,.jsx,.cjs,.mjs,.vue
+  - sonar.jcl.file.suffixes=.jcl
+  - sonar.json.file.suffixes=.json
+  - sonar.jsp.file.suffixes=.jsp,.jspf,.jspx
+  - sonar.kotlin.file.suffixes=.kt,.kts
+  - sonar.multi-quality-mode.enabled=true
+  - sonar.objc.file.suffixes=.m
+  - sonar.php.file.suffixes=php,php3,php4,php5,phtml,inc
+  - sonar.pli.file.suffixes=.pli
+  - sonar.plsql.file.suffixes=sql,pks,pkb
+  - sonar.python.file.suffixes=py
+  - sonar.qualityProfiles.allowDisableInheritedRules=true
+  - sonar.rpg.file.suffixes=.rpg,.rpgle,.sqlrpgle,.RPG,.RPGLE,.SQLRPGLE
+  - sonar.ruby.file.suffixes=.rb
+  - sonar.rust.file.suffixes=.rs
+  - sonar.sca.enabled=false
+  - sonar.scala.file.suffixes=.scala
+  - sonar.swift.file.suffixes=.swift
+  - sonar.terraform.file.suffixes=.tf
+  - sonar.tsql.file.suffixes=.tsql
+  - sonar.typescript.file.suffixes=.ts,.tsx,.cts,.mts
+  - sonar.vb.file.suffixes=.bas,.frm,.ctl
+  - sonar.vbnet.file.suffixes=.vb
+  - sonar.xml.file.suffixes=.xml,.xsd,.xsl,.config
+  - sonar.yaml.file.suffixes=.yaml,.yml
+Project server settings:
+  - sonar.abap.file.suffixes=.abap,.ab4,.flow,.asprog
+  - sonar.apex.file.suffixes=.cls,.trigger
+  - sonar.azureresourcemanager.file.suffixes=.bicep
+  - sonar.c.file.suffixes=.c,.h
+  - sonar.cpp.file.suffixes=.cc,.cpp,.cxx,.c++,.hh,.hpp,.hxx,.h++,.ipp,.ixx,.mxx,.cppm,.ccm,.cxxm,.c++m
+  - sonar.cs.file.suffixes=.cs,.razor
+  - sonar.css.file.suffixes=.css,.less,.scss,.sass
+  - sonar.dart.file.suffixes=.dart
+  - sonar.docker.file.patterns=Dockerfile,*.dockerfile
+  - sonar.flex.file.suffixes=as
+  - sonar.go.file.suffixes=.go
+  - sonar.html.file.suffixes=.html,.xhtml,.cshtml,.vbhtml,.aspx,.ascx,.rhtml,.erb,.shtm,.shtml,.cmp,.twig
+  - sonar.ipynb.file.suffixes=ipynb
+  - sonar.java.file.suffixes=.java,.jav
+  - sonar.java.jvmframeworkconfig.file.patterns=**/src/main/resources/**/*app*.properties,**/src/main/resources/**/*app*.yaml,**/src/main/resources/**/*app*.yml
+  - sonar.javascript.file.suffixes=.js,.jsx,.cjs,.mjs,.vue
+  - sonar.jcl.file.suffixes=.jcl
+  - sonar.json.file.suffixes=.json
+  - sonar.jsp.file.suffixes=.jsp,.jspf,.jspx
+  - sonar.kotlin.file.suffixes=.kt,.kts
+  - sonar.objc.file.suffixes=.m
+  - sonar.php.file.suffixes=php,php3,php4,php5,phtml,inc
+  - sonar.pli.file.suffixes=.pli
+  - sonar.plsql.file.suffixes=sql,pks,pkb
+  - sonar.python.file.suffixes=py
+  - sonar.rpg.file.suffixes=.rpg,.rpgle,.sqlrpgle,.RPG,.RPGLE,.SQLRPGLE
+  - sonar.ruby.file.suffixes=.rb
+  - sonar.rust.file.suffixes=.rs
+  - sonar.scala.file.suffixes=.scala
+  - sonar.swift.file.suffixes=.swift
+  - sonar.terraform.file.suffixes=.tf
+  - sonar.tsql.file.suffixes=.tsql
+  - sonar.typescript.file.suffixes=.ts,.tsx,.cts,.mts
+  - sonar.vb.file.suffixes=.bas,.frm,.ctl
+  - sonar.vbnet.file.suffixes=.vb
+  - sonar.xml.file.suffixes=.xml,.xsd,.xsl,.config
+  - sonar.yaml.file.suffixes=.yaml,.yml
+Project scanner properties:
+  - sonar.host.url=https://sonarqube.eh.serco-na.us
+  - sonar.projectBaseDir=C:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\ansible-windows-3.3.0
+  - sonar.projectKey=ansible-windows-3.3.0
+  - sonar.scanner.apiBaseUrl=https://sonarqube.eh.serco-na.us/api/v2
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=8.0.1.6346
+  - sonar.scanner.arch=amd64
+  - sonar.scanner.bootstrapStartTime=1770055611251
+  - sonar.scanner.home=C:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\sonar-scanner-cli-8.0.1.6346-windows-x64\sonar-scanner-8.0.1.6346-windows-x64\bin\..
+  - sonar.scanner.os=windows
+  - sonar.scanner.truststorePassword=changeit
+  - sonar.scanner.truststorePath=C:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\sonar-scanner-cli-8.0.1.6346-windows-x64\sonar-scanner-8.0.1.6346-windows-x64\jre\lib\security\cacerts
+  - sonar.scanner.wasEngineCacheHit=true
+  - sonar.scanner.wasJreCacheHit=HIT
+  - sonar.sources=.
+  - sonar.token=******
+  - sonar.working.directory=C:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\ansible-windows-3.3.0\.scannerwork

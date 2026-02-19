@@ -1,0 +1,409 @@
+
+Ä	"4535680"str
+!	"Updates"str
+0ä&"f26a0046-1e1a-4305-8743-19c92c3095a5"str
+/*&"74819184-828b-4f97-bb4b-089a0c58e366"str
+iq`"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.341.72.0)"str
+I	"2267602"str
+'L"Microsoft Defender Antivirus"str
+T~K"Security Update for Windows Server 2019 for x64-based Systems (KB4535680)"str
+hW_"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.341.8.0)"str
+/&"1abb2377-20ef-43ff-aabc-0de4711ab205"str
+SJ"2021-01 Update for Windows Server 2019 for x64-based Systems (KB4589208)"str
+"Security Updates"str
+	"4580325"str
+NoneNoneType
+/|&"33a64099-ba99-4e7f-a2d7-cf7d7fc4029f"str
+0ò&"d4919b6d-584d-436f-b877-dc3fc352a774"str
+~9u"2021-05 Cumulative Update Preview for .NET Framework 3.5, 4.7.2 and 4.8 for Windows Server 2019 for x64 (KB5003396)"str
+nåd"Update for Removal of Adobe Flash Player for Windows Server 2019 for x64-based systems (KB4577586)"str
+"categories"str
+é	"4577586"str
+"title"str
+/E&"a89e56f1-2002-40c6-a9af-3cf8be801df7"str
+/7&"9e94ae7a-f0f4-4ea1-b590-9f1388ee6126"str
+
+0int
+/&"89e11227-761b-4396-bf37-37a2b641fa84"str
+/U&"5dae3a9d-4f41-445c-83f6-15fb4534e936"str
+;	"5003396"str
+id`"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.341.70.0)"str
+	"4589208"str
+s	j"2020-10 Security Update for Adobe Flash Player for Windows Server 2019 for x64-based Systems (KB4580325)"str
+/o&"81929363-530d-4ccc-b9c7-8a1b89b20fe5"str
+û"Update Rollups"str
+kGb"Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.339.1923.0)"str
+ü"Windows Server 2016"str
+K"Definition Updates"str
+"kb"str
+/b&"4326d7df-c256-4cca-99f7-c02a04443ec1"str
+ú"890830"str
+.	"5003171"str
+e,\"2021-05 Cumulative Update for Windows Server 2019 (1809) for x64-based Systems (KB5003171)"str
+Jö@"Windows Malicious Software Removal Tool x64 - v5.89 (KB890830)"str
+"Windows Server 2019"strlist"“6+
+)
+	 	(#	MagicMock"?python-unknown?:
+8
+ (3AnsibleConnectionFailure"?python-unknown?&
+$
+ (&Task"?python-unknown?-
++
+ (Jwin_updates"?python-unknown?1
+/
+ I(UPDATE_INFO"#new-object#Bdict$
+"
+, ("#new-object#Bdict 
+
+ ({
+"	#map-set#:	 
+
+ ("	#map-set#:'
+%
+ (A"#unknown-value#Blist&
+$
+ (A"
+#is-exact#:Bbool
+
+ (A"
+#assume#:8
+6
+ (A"#set-field# __collection_size:Bint&
+$
+ (A"#array-add-last#:&
+$
+ (A"#array-add-last#: 
+
+ (A"	#map-set#: 
+
+ ("	#map-set#:$
+"
+, ("#new-object#Bdict 
+
+ (["	#map-set#: 
+
+ ( "	#map-set#:'
+%
+ (8""#unknown-value#Blist&
+$
+ (8#"
+#is-exact#:"Bbool
+
+ (8$"
+#assume#:#8
+6
+ (8%"#set-field# __collection_size:"Bint&
+$
+ (8&"#array-add-last#:"!&
+$
+ (8'"#array-add-last#:" 
+
+ (8("	#map-set#:" 
+
+ ()"	#map-set#:$
+"
+, (+"#new-object#Bdict 
+
+ (m-"	#map-set#:+, 
+
+ (/"	#map-set#:+.'
+%
+ (*0"#unknown-value#Blist&
+$
+ (*1"
+#is-exact#:0Bbool
+
+ (*2"
+#assume#:18
+6
+ (*3"#set-field# __collection_size:0Bint&
+$
+ (*4"#array-add-last#:0 
+
+ (*5"	#map-set#:+0 
+
+ (6"	#map-set#:*+$
+"
+ , $(8"#new-object#Bdict!
+
+	! !(Ü:"	#map-set#:89 
+
+" "(<"	#map-set#:8;'
+%
+# #(8="#unknown-value#Blist&
+$
+# #(8>"
+#is-exact#:=Bbool
+
+# #(8?"
+#assume#:>8
+6
+# #(8@"#set-field# __collection_size:=Bint&
+$
+# #(8A"#array-add-last#:=!&
+$
+# #(8B"#array-add-last#:= 
+
+# #(8C"	#map-set#:8= 
+
+  $(D"	#map-set#:78$
+"
+%, )(F"#new-object#Bdict 
+
+& &(sH"	#map-set#:FG 
+
+' '(J"	#map-set#:FI'
+%
+( ((LM"#unknown-value#Blist&
+$
+( ((LN"
+#is-exact#:MBbool
+
+( ((LO"
+#assume#:N8
+6
+( ((LP"#set-field# __collection_size:MBint&
+$
+( ((LQ"#array-add-last#:MK&
+$
+( ((LR"#array-add-last#:ML 
+
+( ((LS"	#map-set#:FM 
+
+% )(T"	#map-set#:EF$
+"
+*, .(V"#new-object#Bdict 
+
++ +(pX"	#map-set#:VW 
+
+, ,(Y"	#map-set#:VI'
+%
+- -(LZ"#unknown-value#Blist&
+$
+- -(L["
+#is-exact#:ZBbool
+
+- -(L\"
+#assume#:[8
+6
+- -(L]"#set-field# __collection_size:ZBint&
+$
+- -(L^"#array-add-last#:ZK&
+$
+- -(L_"#array-add-last#:ZL 
+
+- -(L`"	#map-set#:VZ 
+
+* .(a"	#map-set#:UV$
+"
+/, 3(c"#new-object#Bdict 
+
+0 0(qe"	#map-set#:cd 
+
+1 1(f"	#map-set#:cI'
+%
+2 2(Lg"#unknown-value#Blist&
+$
+2 2(Lh"
+#is-exact#:gBbool
+
+2 2(Li"
+#assume#:h8
+6
+2 2(Lj"#set-field# __collection_size:gBint&
+$
+2 2(Lk"#array-add-last#:gK&
+$
+2 2(Ll"#array-add-last#:gL 
+
+2 2(Lm"	#map-set#:cg 
+
+/ 3(n"	#map-set#:bc$
+"
+4, 8(p"#new-object#Bdict 
+
+5 5(qr"	#map-set#:pq 
+
+6 6(s"	#map-set#:pI'
+%
+7 7(Lt"#unknown-value#Blist&
+$
+7 7(Lu"
+#is-exact#:tBbool
+
+7 7(Lv"
+#assume#:u8
+6
+7 7(Lw"#set-field# __collection_size:tBint&
+$
+7 7(Lx"#array-add-last#:tK&
+$
+7 7(Ly"#array-add-last#:tL 
+
+7 7(Lz"	#map-set#:pt 
+
+4 8({"	#map-set#:op$
+"
+9, =(}"#new-object#Bdict 
+
+: :(\"	#map-set#:}~"
+ 
+; ;(Å"	#map-set#:}Ä(
+&
+< <(AÇ"#unknown-value#Blist(
+&
+< <(AÉ"
+#is-exact#:ÇBbool
+
+< <(AÑ"
+#assume#:É:
+8
+< <(AÖ"#set-field# __collection_size:ÇBint(
+&
+< <(AÜ"#array-add-last#:Ç(
+&
+< <(Aá"#array-add-last#:Ç"
+ 
+< <(Aà"	#map-set#:}Ç!
+
+9 =(â"	#map-set#:|}%
+#
+?, C(ã"#new-object#Bdict#
+!
+@ @(uç"	#map-set#:ãå#
+!
+A A(è"	#map-set#:ãé(
+&
+B B(8ê"#unknown-value#Blist(
+&
+B B(8ë"
+#is-exact#:êBbool
+
+B B(8í"
+#assume#:ë:
+8
+B B(8ì"#set-field# __collection_size:êBint(
+&
+B B(8î"#array-add-last#:ê!(
+&
+B B(8ï"#array-add-last#:ê#
+!
+B B(8ñ"	#map-set#:ãê#
+!
+? C(ó"	#map-set#:äã%
+#
+D, H(ô"#new-object#Bdict#
+!
+E E(Qõ"	#map-set#:ôö#
+!
+F F(ù"	#map-set#:ôú(
+&
+G G(V†"#unknown-value#Blist(
+&
+G G(V°"
+#is-exact#:†Bbool
+
+G G(V¢"
+#assume#:°:
+8
+G G(V£"#set-field# __collection_size:†Bint)
+'
+G G(V§"#array-add-last#:†û)
+'
+G G(V•"#array-add-last#:†ü(
+&
+G G(V¶"#array-add-last#:†#
+!
+G G(Vß"	#map-set#:ô†#
+!
+D H(®"	#map-set#:òô'
+%
+õ ®©%closure"#new-object#&
+$
+õ ®™"#set-field# Task:©-
++
+õ ®´"#set-field# win_updates:©+
+)
+õ ®¨"?python-partial-apply?:©'
+%
+˘ ö≠%closure"#new-object#-
++
+˘ öÆ"#set-field# win_updates:≠-
++
+˘ öØ"#set-field# UPDATE_INFO:≠+
+)
+˘ ö∞"?python-partial-apply?:≠'
+%
+ö «±%closure"#new-object#-
++
+ö «≤"#set-field# win_updates:±-
++
+ö «≥"#set-field# UPDATE_INFO:±+
+)
+ö «¥"?python-partial-apply?:±'
+%
+« Îµ%closure"#new-object#-
++
+« Î∂"#set-field# win_updates:µ-
++
+« Î∑"#set-field# UPDATE_INFO:µ+
+)
+« Î∏"?python-partial-apply?:µ'
+%
+Î åπ%closure"#new-object#-
++
+Î å∫"#set-field# win_updates:π-
++
+Î åª"#set-field# UPDATE_INFO:π+
+)
+Î åº"?python-partial-apply?:π'
+%
+å ≠Ω%closure"#new-object#-
++
+å ≠æ"#set-field# win_updates:Ω-
++
+å ≠ø"#set-field# UPDATE_INFO:Ω+
+)
+å ≠¿"?python-partial-apply?:Ω'
+%
+≠ ∆¡%closure"#new-object#-
++
+≠ ∆¬"#set-field# win_updates:¡+
+)
+≠ ∆√"?python-partial-apply?:¡'
+%
+∆ Êƒ%closure"#new-object#-
++
+∆ Ê≈"#set-field# win_updates:ƒ-
++
+∆ Ê∆"#set-field# UPDATE_INFO:ƒ+
+)
+∆ Ê«"?python-partial-apply?:ƒ'
+%
+ã ¬»%closure"#new-object#-
++
+ã ¬…"#set-field# win_updates:»-
++
+ã ¬ "#set-field# UPDATE_INFO:»+
+)
+ã ¬À"?python-partial-apply?:»'
+%
+¬ ÔÃ%closure"#new-object#-
++
+¬ ÔÕ"#set-field# win_updates:Ã-
++
+¬ ÔŒ"#set-field# UPDATE_INFO:Ã+
+)
+¬ Ôœ"?python-partial-apply?:Ã'
+%
+Ô ˇ–%closure"#new-object#-
++
+Ô ˇ—"#set-field# win_updates:–+
+)
+Ô ˇ“"?python-partial-apply?:–'
+%
+ˇ ì”%closure"#new-object#-
++
+ˇ ì‘"#set-field# win_updates:”+
+)
+ˇ ì’"?python-partial-apply?:” *úC:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\ansible-windows-3.3.0\tests\unit\plugins\action\test_win_updates.py
