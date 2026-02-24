@@ -1,0 +1,37 @@
+
+X	O"Runs the function multiple times ignoring errors until the retry limit is hit"strtask_action
+¶ ¶(
+connection
+· ·(host_context
+¸ ¸($action_desc
+¹ ¹(retries
+º º(func
+» »(args
+¼ ¼(kwargs
+½ ½("dict"Í#
+!
+
+É É("#unknown-value#*
+(
+
+Á Ä(
+%closure"#new-object#+
+)
+
+Á Ä("#set-field# retries:
+-
++
+
+Á Ä("?python-partial-apply?:
+%
+#
+
+Ë Ë("#unaryop *#2*:'
+%
+
+Ì Ì("#unaryop **#2**:<
+:
+
+Ä Í(" _do_until_success_or_condition:
+
+Ä Í(*ŽC:\Users\Noah.Burroughs\OneDrive - Serco-NA-GCCH\Documents\Ansible\Collections\SonarQube\ansible-windows-3.3.0\plugins\plugin_utils\_reboot.py
